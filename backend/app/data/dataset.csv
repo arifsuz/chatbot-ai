@@ -1,0 +1,102 @@
+﻿id ;pertanyaan;jawaban;kategori
+1;Bagaimana cara mendaftar sebagai mahasiswa baru?;Anda dapat mendaftar melalui situs resmi kampus di bagian pendaftaran atau datang langsung ke bagian pendaftaran di kampus.;Pendaftaran
+2;Kapan jadwal pendaftaran mahasiswa baru dibuka?;Jadwal pendaftaran biasanya dibuka pada bulan Mei hingga Agustus setiap tahunnya.;Pendaftaran
+3;Apa saja persyaratan untuk mendaftar?;Persyaratan meliputi fotokopi ijazah, transkrip nilai, pas foto, dan bukti pembayaran pendaftaran.;Pendaftaran
+4;Apakah kampus ini menyediakan beasiswa?;Ya, kami menyediakan beasiswa prestasi, atlet, dan bantuan ekonomi. Cek di situs kampus.;Beasiswa
+5;Bagaimana cara mengajukan beasiswa?;Ajukan beasiswa melalui formulir di portal mahasiswa dengan melampirkan dokumen pendukung.;Beasiswa
+6;Kapan jadwal UTS semester ini?;Jadwal UTS diumumkan di portal akademik dan melalui email dua minggu sebelum pelaksanaan.;Akademik
+7;Apakah kampus menerima mahasiswa transfer?;Ya, kami menerima mahasiswa transfer. Silakan hubungi bagian administrasi.;Administrasi
+8;Bagaimana cara mengubah jadwal kuliah?;Permohonan perubahan jadwal dapat diajukan melalui portal mahasiswa.;Akademik
+9;Apakah ada program pertukaran pelajar?;Ya, ada program pertukaran dengan universitas mitra di luar negeri.;Program Internasional
+10;Bagaimana cara mendapatkan Kartu Tanda Mahasiswa (KTM)?;KTM dapat diambil di bagian administrasi setelah proses registrasi selesai.;Administrasi
+11;Berapa biaya kuliah di kampus ini?;Biaya kuliah tergantung program studi yang dipilih. Cek bagian biaya di situs kampus.;Keuangan
+12;Bagaimana cara mengakses e-learning?;Anda bisa mengakses e-learning melalui portal menggunakan akun yang terdaftar.;Teknologi
+13;Bagaimana cara mengganti kata sandi akun portal mahasiswa?;Ganti kata sandi di menu 'Pengaturan Akun' pada portal mahasiswa.;Teknologi
+14;Apa yang harus dilakukan jika saya lupa kata sandi akun saya?;Gunakan fitur 'Lupa Kata Sandi' di halaman login portal mahasiswa.;Teknologi
+15;Apa saja program studi yang ditawarkan?;Kami menawarkan program Teknik Informatika, Manajemen, Psikologi, Hukum, dll.;Program Studi
+16;Kapan jadwal wisuda?;Jadwal wisuda biasanya dilaksanakan pada bulan November setiap tahunnya.; 
+17;Bagaimana cara mencetak transkrip nilai?;Cetak transkrip melalui portal akademik pada menu 'Transkrip'.;Akademik
+18;Bagaimana cara bergabung ke e-meeting kelas?;Bergabung dengan mengikuti link yang diberikan dosen melalui portal.;Teknologi
+19;Bagaimana cara menambahkan mata kuliah?;Tambahkan mata kuliah saat masa KRS melalui portal akademik.;Akademik
+20;Apakah tersedia fasilitas asrama bagi mahasiswa baru?;Ya, asrama tersedia bagi mahasiswa baru.;Fasilitas
+21;Apa itu KRS?;KRS (Kartu Rencana Studi) adalah dokumen untuk memilih mata kuliah.;Akademik
+22;Bagaimana cara melaporkan masalah pada akun e-learning?;Hubungi IT support melalui email resmi atau datang langsung ke layanan IT.;Teknologi
+23;Apakah kampus memiliki program magang?;Ya, program magang tersedia bagi mahasiswa di semester akhir.;Karir
+24;Bagaimana cara membayar uang kuliah?;Pembayaran dapat dilakukan melalui transfer bank, e-wallet, atau langsung ke bagian keuangan.;Keuangan
+25;Apa yang harus dilakukan jika mengalami kendala saat ujian online?;Laporkan masalah ke dosen atau IT support secepatnya.;Teknologi
+26;Bagaimana cara membuat kartu perpustakaan?;Silakan datang ke perpustakaan kampus untuk mendaftar.;Fasilitas
+27;Apa syarat untuk mengikuti program double degree?;Syarat meliputi IPK minimal 3.5 dan kemampuan bahasa Inggris yang baik.;Program Internasional
+28;Apakah tersedia layanan konsultasi karir?;Ya, layanan konsultasi karir tersedia di pusat karir kampus.;Karir
+29;Apakah ada biaya tambahan untuk praktikum?;Ya, beberapa program studi mengenakan biaya tambahan untuk praktikum.;Keuangan
+30;Bagaimana cara mendapatkan akses ke laboratorium?;Akses laboratorium dapat diberikan setelah mendaftar di bagian akademik.;Fasilitas
+31;Bagaimana cara memperpanjang masa berlaku KTM?;Silakan ajukan permohonan di bagian administrasi kampus dengan melampirkan KTM lama.;Administrasi
+32;Apakah ada program studi S2 di kampus ini?;Ya, kami menyediakan program S2 untuk beberapa jurusan seperti Manajemen dan Teknik Informatika.;Program Studi
+33;Bagaimana cara mendaftar program S2?;Pendaftaran dapat dilakukan secara online melalui situs resmi kampus di bagian pascasarjana.;Pendaftaran
+34;Apa saja jalur masuk yang tersedia?;Kami menyediakan jalur SNMPTN, SBMPTN, dan jalur mandiri.;Pendaftaran
+35;Bagaimana cara mengecek status pendaftaran saya?;Status pendaftaran dapat dicek melalui portal pendaftaran menggunakan akun Anda.;Pendaftaran
+36;Apa saja syarat untuk mengikuti KKN?;Mahasiswa harus berada di semester 6 ke atas dan memiliki IPK minimal 2.75.;Akademik
+37;Bagaimana cara mengajukan cuti akademik?;Ajukan permohonan cuti melalui portal akademik dengan mengisi formulir cuti dan alasan yang jelas.;Akademik
+38;Apakah kampus memiliki layanan psikologi?;Ya, tersedia layanan konseling psikologi untuk mahasiswa. Silakan mendaftar di bagian Bimbingan Konseling.;Fasilitas
+39;Bagaimana cara mengganti nomor telepon di portal mahasiswa?;Anda dapat memperbarui nomor telepon di menu 'Profil' pada portal mahasiswa.;Teknologi
+40;Apakah kampus menyediakan layanan kesehatan?;Ya, terdapat klinik kesehatan di kampus yang melayani mahasiswa.;Fasilitas
+41;Bagaimana cara mengurus surat keterangan mahasiswa aktif?;Ajukan permohonan di bagian administrasi dengan menunjukkan KTM.;Administrasi
+42;Apa syarat untuk mengikuti sidang skripsi?;Syarat meliputi penyelesaian semua mata kuliah, KKN, dan seminar proposal.;Akademik
+43;Bagaimana cara mencetak kartu ujian?;Cetak kartu ujian melalui portal akademik di menu 'Kartu Ujian'.;Akademik
+44;Kapan jadwal pengisian KRS?;Jadwal KRS diumumkan di portal akademik setiap awal semester.;Akademik
+45;Bagaimana cara mendapatkan surat rekomendasi dari dosen?;Silakan ajukan permohonan langsung ke dosen terkait melalui email atau tatap muka.;Administrasi
+46;Apakah ada pelatihan soft skills di kampus?;Ya, terdapat pelatihan soft skills yang diadakan oleh BEM dan UKM.;Kegiatan Mahasiswa
+47;Bagaimana cara mengajukan proposal kegiatan mahasiswa?;Ajukan proposal ke bagian kemahasiswaan dengan melampirkan surat persetujuan dari pembimbing.;Kegiatan Mahasiswa
+48;Apakah tersedia layanan wifi di kampus?;Ya, wifi tersedia di seluruh area kampus. Gunakan akun mahasiswa untuk login.;Fasilitas
+49;Bagaimana cara memperbaiki data di portal akademik?;Hubungi bagian IT untuk memperbaiki data yang salah.;Teknologi
+50;Apa itu program Fast Track?;Program Fast Track memungkinkan mahasiswa menyelesaikan S1 dan S2 dalam waktu lebih singkat.;Program Studi
+51;Apakah ada program kerjasama dengan perusahaan?;Ya, kampus bekerja sama dengan berbagai perusahaan untuk program magang dan rekrutmen.;Karir
+52;Bagaimana cara mengaktifkan kembali akun mahasiswa yang terblokir?;Silakan hubungi bagian IT untuk bantuan aktivasi ulang akun Anda.;Teknologi
+53;Apakah mahasiswa boleh membawa kendaraan pribadi?;Ya, mahasiswa diperbolehkan membawa kendaraan dengan mendaftar parkir tahunan.;Fasilitas
+54;Bagaimana cara bergabung dengan UKM (Unit Kegiatan Mahasiswa)?;Silakan daftar di stand UKM saat masa orientasi atau di kantor kemahasiswaan.;Kegiatan Mahasiswa
+55;Apa saja jenis seminar yang diadakan di kampus?;Kami mengadakan berbagai seminar seperti seminar akademik, karir, dan teknologi.;Kegiatan Mahasiswa
+56;Bagaimana cara mengikuti webinar yang diselenggarakan kampus?;Daftar melalui link yang dibagikan di portal atau media sosial kampus.;Teknologi
+57;Apakah kampus memiliki layanan perpustakaan digital?;Ya, mahasiswa dapat mengakses perpustakaan digital melalui portal e-library.;Fasilitas
+58;Bagaimana cara memperbarui data rekening untuk pencairan beasiswa?;Perbarui data rekening melalui portal mahasiswa pada menu beasiswa.;Keuangan
+59;Apa yang harus dilakukan jika nilai ujian saya belum masuk ke sistem?;Hubungi dosen pengampu mata kuliah atau bagian akademik untuk memverifikasi.;Akademik
+60;Apakah ada program bimbingan karir?;Ya, kami memiliki pusat karir yang menyediakan bimbingan karir bagi mahasiswa.;Karir
+61;Bagaimana cara mengurus kartu ATM mahasiswa?;Silakan ajukan di bank mitra yang bekerja sama dengan kampus.;Fasilitas
+62;Apa yang dimaksud dengan SKPI?;SKPI adalah Surat Keterangan Pendamping Ijazah yang berisi kompetensi lulusan.;Akademik
+63;Bagaimana cara mengunduh e-book dari perpustakaan digital?;Masuk ke portal e-library, cari judul buku, dan klik tombol unduh.;Fasilitas
+64;Apakah mahasiswa diperbolehkan mengadakan kegiatan di luar kampus?;Ya, asalkan mendapat izin dari bagian kemahasiswaan.;Kegiatan Mahasiswa
+65;Apa saja persyaratan untuk mengikuti program double degree?;IPK minimal 3.5, TOEFL ≥ 550, dan surat rekomendasi dosen.;Program Internasional
+66;Bagaimana cara mengajukan klaim asuransi mahasiswa?;Ajukan klaim ke bagian administrasi dengan melampirkan bukti yang diperlukan.;Administrasi
+67;Apakah kampus menyediakan program sertifikasi?;Ya, terdapat program sertifikasi di bidang IT, bahasa, dan manajemen.;Karir
+68;Apa yang dimaksud dengan SP?;SP (Semester Pendek) adalah program untuk memperbaiki nilai mata kuliah yang belum lulus.;Akademik
+69;Bagaimana cara melakukan pendaftaran ulang?;Lakukan pendaftaran ulang melalui portal akademik pada awal semester.;Administrasi
+70;Apakah ada layanan antar-jemput bagi mahasiswa?;Ya, kampus menyediakan layanan shuttle bus untuk mahasiswa.;Fasilitas
+71;Apakah ada program pelatihan bahasa asing di kampus?;Ya, kampus menawarkan pelatihan bahasa asing seperti Inggris, Jepang, dan Mandarin.;Program Studi
+72;Bagaimana cara mengecek jadwal kuliah?;Anda bisa melihat jadwal kuliah di portal akademik pada menu 'Jadwal'.;Akademik
+73;Apakah kampus memiliki fasilitas olahraga?;Ya, terdapat fasilitas seperti gym, lapangan basket, dan kolam renang.;Fasilitas
+74;Bagaimana cara mengikuti lomba yang diadakan kampus?;Daftar melalui portal kemahasiswaan atau hubungi panitia di BEM.;Kegiatan Mahasiswa
+75;Apakah kampus menyediakan layanan bimbingan skripsi?;Ya, bimbingan skripsi dilakukan oleh dosen pembimbing yang ditugaskan.;Akademik
+76;Apa saja program studi yang memiliki akreditasi A?;Program studi Teknik Informatika, Manajemen, dan Psikologi memiliki akreditasi A.;Program Studi
+77;Bagaimana cara mengikuti program pertukaran pelajar?;Ajukan aplikasi melalui bagian internasional dengan memenuhi syarat TOEFL dan IPK.;Program Internasional
+78;Apakah mahasiswa bisa menggunakan laboratorium di luar jam kuliah?;Ya, dengan izin dari dosen atau teknisi lab terkait.;Fasilitas
+79;Apa yang harus dilakukan jika saya terlewat masa KRS?;Anda bisa mengajukan perpanjangan masa KRS melalui portal akademik dengan alasan yang valid.;Akademik
+80;Bagaimana cara mencairkan dana beasiswa?;Dana beasiswa akan ditransfer langsung ke rekening mahasiswa yang terdaftar.;Keuangan
+81;Apakah tersedia layanan bimbingan karir?;Ya, layanan bimbingan karir tersedia di Career Center kampus.;Karir
+82;Bagaimana cara mengajukan surat keterangan cuti kuliah?;Silakan ajukan di portal akademik dengan melampirkan alasan dan persetujuan dosen wali.;Akademik
+83;Apakah kampus menyediakan fasilitas parkir sepeda?;Ya, tersedia area parkir khusus untuk sepeda di kampus.;Fasilitas
+84;Bagaimana cara mengunduh materi kuliah?;Materi kuliah dapat diunduh melalui e-learning pada portal akademik.;Teknologi
+85;Apa syarat untuk mengikuti program Fast Track?;IPK minimal 3.5 dan menyelesaikan minimal 120 SKS sebelum semester 6.;Program Studi
+86;Apakah kampus memiliki program alumni?;Ya, kami memiliki jaringan alumni yang kuat dengan berbagai kegiatan rutin.;Alumni
+87;Bagaimana cara bergabung dengan komunitas penelitian?;Daftar melalui bagian penelitian kampus atau hubungi dosen pembimbing penelitian.;Kegiatan Mahasiswa
+88;Bagaimana cara melakukan pembayaran KRS?;Pembayaran dilakukan melalui transfer bank atau e-wallet yang bekerja sama dengan kampus.;Keuangan
+89;Apakah kampus menyediakan fasilitas coworking space?;Ya, terdapat coworking space yang dapat digunakan mahasiswa untuk diskusi dan tugas kelompok.;Fasilitas
+90;Bagaimana cara mengurus perpindahan jurusan?;Ajukan permohonan ke bagian akademik dengan persetujuan dosen wali.;Akademik
+91;Apakah ada batasan SKS yang dapat diambil dalam satu semester?;Ya, maksimal 24 SKS untuk mahasiswa dengan IPK di atas 3.00.;Akademik
+92;Bagaimana cara mendaftar UKT (Uang Kuliah Tunggal)?;UKT akan otomatis dihitung berdasarkan data keluarga yang diisi saat pendaftaran.;Keuangan
+93;Apakah kampus menyediakan program kerja sambil kuliah?;Ya, kami bekerja sama dengan perusahaan untuk program kerja paruh waktu bagi mahasiswa.;Karir
+94;Bagaimana cara mengajukan keluhan terkait fasilitas kampus?;Laporkan melalui portal keluhan di sistem kampus atau bagian administrasi.;Fasilitas
+95;Apakah ada batas waktu pembayaran uang semester?;Ya, batas waktu pembayaran diumumkan setiap semester di portal akademik.;Keuangan
+96;Bagaimana cara mengakses jurnal ilmiah kampus?;Anda dapat mengakses jurnal ilmiah melalui portal perpustakaan digital kampus.;Akademik
+97;Apakah kampus menyediakan layanan penitipan barang?;Ya, tersedia layanan penitipan barang di gedung administrasi.;Fasilitas
+98;Bagaimana cara mengganti dosen pembimbing skripsi?;Ajukan permohonan tertulis ke bagian akademik dengan alasan yang jelas.;Akademik
+99;Apakah mahasiswa dapat menggunakan ruang kelas untuk kegiatan di luar jam kuliah?;Ya, dengan izin dari bagian administrasi kampus.;Fasilitas
+100;Bagaimana cara mendapatkan informasi terkait lowongan kerja?;Informasi lowongan kerja dapat diakses melalui portal karir kampus atau Career Center.;Karir
+101;apa saja syarat pendaftaran?;Syarat pendaftaran meliputi ijazah, transkrip nilai, pas foto, dan bukti pembayaran.;Pendaftaran
