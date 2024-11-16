@@ -1,0 +1,9 @@
+/* Styling umum untuk aplikasi */
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #4caf50;
+}
