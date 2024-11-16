@@ -1,43 +1,101 @@
-# Getting Started with Create React App
+# Mercubuana University Customer Service Chatbot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a customer service chatbot application created using React and Tailwind CSS. This application allows users to interact with a chatbot that provides customer service.
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+1. **Clone the repository:**
+   ```sh
+   git clone <REPOSITORY_URL>
+   cd chatbot-app
+   ```
 
-### `npm start`
+2. **Install dependencies:**
+   Make sure you have Node.js and npm installed on your system. Then run the following command:
+   ```sh
+   npm install
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Running the Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Run the application in development mode:**
+   ```sh
+   npm start
+   ```
+   The application will run at [http://localhost:3000](http://localhost:3000).
 
-### `npm test`
+2. **Build the application for production:**
+   ```sh
+   npm run build
+   ```
+   This will create a production build in the `build` folder.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Structure
 
-### `npm run build`
+```
+chatbot-app/
+├── package.json
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+├── README.md
+├── src/
+│   ├── App.css
+│   ├── App.js
+│   ├── assets/
+│   ├── components/
+│   │   ├── Chat.js
+│   │   └── Message.js
+│   ├── index.css
+│   ├── index.js
+├── tailwind.config.js
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Modifying the Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Changing styles:**
+   - You can change global styles in 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+index.css
 
-### `npm run eject`
+.
+   - You can also change specific component styles in 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+App.css
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ or add Tailwind CSS classes directly in the components.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Adding or modifying components:**
+   - The main components are located in the 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+components
+
+ folder.
+   - For example, to change the message appearance, you can edit 
+
+Message.js
+
+.
+
+3. **Changing application logic:**
+   - The main application logic is in 
+
+Chat.js
+
+.
+   - You can change how messages are sent or received by editing the 
+
+handleSendMessage
+
+ function.
+
+## Running Tests
+
+1. **Run tests:**
+   ```sh
+   npm test
+   ```
+   This will launch the test runner in interactive watch mode.
 
 ## Learn More
 

@@ -1,0 +1,49 @@
+# Dependency directories
+**/node_modules/
+**/vendor/
+**/venv/
+**/.env/
+
+# Environment-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+dist/
+build/
+*.out
+*.o
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Sensitive data
+*.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.backup
+
+# System files
+*.DS_Store
+Thumbs.db
